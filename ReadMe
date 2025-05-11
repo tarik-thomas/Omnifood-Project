@@ -1,0 +1,71 @@
+# Omnifood Landing Page
+
+A fully responsive landing page for **Omnifood**, a fictional AI-powered food delivery service. This front-end project was built to practice HTML, CSS (including Grid, Flexbox, and media queries), and vanilla JavaScript with real-world layout challenges and UX interactions.
+
+## 🌐 Live Demo
+
+[View Project on GitHub Pages](https://your-username.github.io/omnifood-landing-page/)  
+_(Replace this with your actual link once deployed)_
+
+---
+
+## 📄 Project Overview
+
+The Omnifood landing page includes multiple interactive sections such as testimonials, pricing, a mobile-responsive nav menu, and a functional sign-up form layout. The layout adjusts fluidly across breakpoints from desktops to mobile devices.
+
+### 🧠 Key Features
+
+- Mobile-first responsive layout using CSS Grid & Flexbox
+- Sticky navigation bar and smooth scrolling
+- Mobile hamburger menu toggle with JavaScript
+- Fully styled pricing and testimonial sections
+- Reusable utility classes and clean BEM-style CSS
+- Custom media queries for multiple breakpoints
+- Form layout and placeholder design for user input
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5 & Semantic Elements
+- CSS3 (Grid, Flexbox, `clamp()`, custom properties)
+- JavaScript (DOM manipulation, scroll effects, navigation toggling)
+- Google Fonts: Rubik, Inter
+- Ionicons (icon library)
+
+---
+
+## 📁 Folder Structure
+
+omnifood-landing-page/ ├── index.html ├── README.md ├── css/ │ ├── general.css │ ├── style.css │ └── queries.css ├── js/ │ └── script.js ├── img/ │ ├── meals/ │ ├── customers/ │ ├── gallery/ │ ├── logos/ │ ├── hero.png │ └── favicon.png ├── manifest.webmanifest └── favicon.png
+
+---
+
+## 📸 Screenshot
+
+![Hero section preview](Hero-section-Preview.png)  
+_(You can replace or add more screenshots to showcase sections like pricing or mobile nav.)_
+
+---
+
+## 📚 What I Learned
+
+- How to structure and scale CSS with reusable components
+- Managing mobile navigation toggling using JavaScript
+- Creating a modern design using visual hierarchy, color contrast, and spacing
+- Deploying static websites using GitHub Pages
+
+---
+
+## 🚀 Future Improvements
+
+- Add full accessibility features (ARIA, alt texts, keyboard nav)
+- Improve form validation and backend connection
+- Include a newsletter signup integration (e.g., Mailchimp)
+
+---
+
+## 📬 Contact
+
+**Tarik Thomas**  
+📧 tarik_thomas@hotmail.com
